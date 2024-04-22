@@ -1,7 +1,7 @@
 <div align='center'><img src='https://profile-counter.glitch.me/Michel-debug/count.svg'></div>
 <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=Michel-debug&show_icons=true&theme=transparent'></div>
 <div align='center'><img src='https://metrics.lecoq.io/Michel-debug'></div>
-<div align='center><img src='https://metrics.lecoq.io/Michel-debug?template=classic&projects=1&leetcode=1&rss=1&chess=1&fortune=1&lines=1&steam=1&notable=1&achievements=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&projects=false&projects.limit=4&projects.descriptions=false&rss=false&rss.limit=4&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=undefined&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&fortune=false&config.timezone=Europe%2FParis'></div>
+
 
 
 
